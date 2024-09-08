@@ -42,9 +42,7 @@ miArrayNumeros.forEach(element => {
     }
 });
 if(verificar){
-    console.log("son iguales");
-}else{
-    console.log("son distintos")
+    console.log("todos los numeros son iguales :",miArrayNumeros);
 };
 
 
